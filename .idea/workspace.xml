@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c739cd5c-778f-47d8-a6f3-f9f6693a9a70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c739cd5c-778f-47d8-a6f3-f9f6693a9a70" name="Changes" comment="intial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/household_power_consumption.txt" beforeDir="false" afterPath="$PROJECT_DIR$/household_power_consumption.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/power.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/power.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +22,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "miaumiaumiaux3"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="44f5c4ad-0f3b-4214-a19c-956a18e85f9e" />
+        <option name="url" value="https://github.com/miaumiaumiaux3/rnn-timeseries-for-electricity-consumption.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -51,4 +63,8 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
+  </component>
 </project>
